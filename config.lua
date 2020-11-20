@@ -1,6 +1,6 @@
 config = {
 
-	-- Particle References: --
+	-- Particle Reference: --
 	-- https://vespura.com/fivem/particle-list/ --
 
 	-- Config Info: --
