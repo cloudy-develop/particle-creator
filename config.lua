@@ -16,4 +16,5 @@ config = {
 		{dict = 'core', name = 'ent_amb_smoke_chicken', scale = 1.0, coords = {x = -2020.85, y = -1038.95, z = 1.00}},
 		{dict = 'core', name = 'ent_amb_smoke_foundry', scale = 1.0, coords = {x = -2069.53, y = -1023.06, z = 10.00}}
 	}
+
 }
