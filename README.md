@@ -9,7 +9,7 @@ Particle Creator is a really simple script that will spawn particles from a conf
  
 ### Git Clone
 
-1. Run CMD in your "resources" folder and type "git clone https://github.com/Cloud-Developments/particle_creator.git".
+1. Run CMD in your "resources" folder and type "git clone https://github.com/cloudy-develop/particle-creator.git".
 2. Edit the "config.lua" to your liking.
 3. Enjoy your particles.
 
